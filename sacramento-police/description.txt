@@ -1,0 +1,9 @@
+data from: http://data.cityofsacramento.org/datasets?t=police 
+(I added dates to most of these datasets' names)
+
+The only raw data I found that contained race info is Sacramento_Police_Vehicle_Stop_Data.csv
+
+
+Visualizations from City of Sacramento's Website:
+https://www.cityofsacramento.org/Police/Transparency/Officer-Involved-Shootings/Statistics
+https://www.cityofsacramento.org/-/media/Corporate/Files/Police/Transparency/OIS-documents/Citizen-Race-Chart-2015.pdf?la=en
